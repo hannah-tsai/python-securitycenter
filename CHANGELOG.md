@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-securitycenter/#history
 
+## [0.6.0](https://www.github.com/googleapis/python-securitycenter/compare/v0.5.0...v0.6.0) (2020-05-13)
+
+
+### Features
+
+* add `security_marks_path` method; fix docstring links (via synth) ([#24](https://www.github.com/googleapis/python-securitycenter/issues/24)) ([80ce6e6](https://www.github.com/googleapis/python-securitycenter/commit/80ce6e6128abf106ef7c3631a426f99440a406d9))
+
 ## [0.5.0](https://www.github.com/googleapis/python-securitycenter/compare/v0.4.0...v0.5.0) (2020-03-10)
 
 
